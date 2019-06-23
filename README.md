@@ -1,6 +1,5 @@
-Note:
-Any help needed to execute the code or understanding the code, please send me message. I will soon upload the input data and expected output data.
-
-More updates coming soon. Meanwhile Please look at the code. I have added some comments over there.
-
-# VIP-PCA_tSNE
+### Please Note: 
+##### tSNE data is geneated on very few sample data ( just 7000 rows) since code takes few hours to generate. Please try to run 
+###### the report on full data. Code moight take > 12 hours to generate. or you need powerful machine. 
+###### Comment lines below in source code to see better tSNE graps. Also try to increase  perplexity, learning_rate and n_iter.
+###### Keep tryig changing the data until you see stable tSNE plots.
